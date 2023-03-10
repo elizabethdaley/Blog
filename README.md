@@ -1,6 +1,7 @@
 # Blog
 
 Fullstack Travel Blog Application
+
 This is a fullstack travel blog application that allows users to log in and create their own blog posts. 
 The application is built using Spring, Java, Spring Security, Thymeleaf, Bootstrap, MySQL, Spring JPA, and JavaScript.
 
